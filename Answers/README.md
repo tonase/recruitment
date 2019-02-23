@@ -1,5 +1,5 @@
-# Answer the recruiter
+# Recruiter's answer
 
-## Submit your answer here with your **name** directory
+Submit your answer here with your **name** directory
 
 ### Thank you
